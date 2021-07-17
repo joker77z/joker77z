@@ -5,7 +5,7 @@
 </div>
 
 ## Journey to becoming a front-end developer
-- mechanical design -> technical support & QA -> Front-End developer
+- mechanical designer -> technical supporter & QA Engineer -> Front-End developer
 - 2021.7.12 ~ FastCampus NKLCB 2nd (Learn html, css, javascript, react, algorithm)
 
 ## Interest
