@@ -9,9 +9,14 @@
 - 2021.7.12 ~ FastCampus NKLCB 2nd (Learn html, css, javascript, react, algorithm)
 
 ## Interest
+### Skill 
 - React
 - Node.js
 - algorithm
+
+### Device
+- mouse(MX Master2S, G PRO X Superlight)
+- keyboard(MX keys, FC660c 45g, Realforce R2 TLSA 45g, G913 TKL Clicky)
 
 ## What you have used or studied
 - HTML, CSS, Javascript, MySQL, MsSQL, SCSS
