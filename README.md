@@ -4,8 +4,9 @@
 	
 </div>
 
-## Now
-2021.7.12 ~ FastCampus NKLCB 2nd
+## Journey to becoming a front-end developer
+- mechanical design -> technical support & QA -> Front-End developer
+- 2021.7.12 ~ FastCampus NKLCB 2nd (Learn html, css, javascript, react, algorithm)
 
 ## Interest
 - React
