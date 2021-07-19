@@ -17,6 +17,8 @@
 ### Device
 - mouse(MX Master2S, G PRO X Superlight)
 - keyboard(MX keys, FC660c 45g, Realforce R2 TLSA 45g, G913 TKL Clicky)
+- notebook(Apple MacBook M1 13" Air)
+- Pad(Apple Ipad Pro 10.5")
 
 ## What you have used or studied
 - HTML, CSS, Javascript, MySQL, MsSQL, SCSS
