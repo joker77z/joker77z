@@ -20,7 +20,7 @@
 - notebook(Apple MacBook M1 13" Air)
 - Pad(Apple Ipad Pro 10.5")
 
-## What you have used or studied
+## Used or learned stack
 - HTML, CSS, Javascript, MySQL, MsSQL, SCSS
 
 
