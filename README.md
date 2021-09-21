@@ -22,7 +22,7 @@
 - Pad(Apple Ipad Pro 10.5")
 
 ## Stack
-- HTML, CSS, Javascript, MySQL, MsSQL, SCSS
+- HTML, CSS, SCSS, Javascript, MySQL, MsSQL
 
 
 <div align=center>
