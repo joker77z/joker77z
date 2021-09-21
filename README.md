@@ -10,8 +10,9 @@
 
 ## Interest
 ### Skill 
-- React
+- Javascript
 - Node.js
+- React
 - algorithm
 
 ### Device
