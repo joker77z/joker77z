@@ -6,7 +6,7 @@
 
 ## Journey to becoming a front-end developer
 - mechanical design Engineer -> technical supporter & QA Engineer -> Front-End developer
-- 2021.7.12 ~ FastCampus NKLCB 2nd (Learn html, css, javascript, react, algorithm)
+- 2021.7.12 ~ FastCampus NKLCB 2nd (Learn algorithm, html, css, javascript, react)
 
 ## Interest
 ### Skill 
@@ -15,14 +15,9 @@
 - React
 - algorithm
 
-### Device
-- mouse(MX Master2S, G PRO X Superlight)
-- keyboard(MX keys, FC660c 45g, Realforce R2 TLSA 45g, G913 TKL Clicky)
-- notebook(Apple MacBook M1 13" Air)
-- Pad(Apple Ipad Pro 10.5")
 
 ## Stack
-- HTML, CSS, SCSS, Javascript, MySQL, MsSQL
+- HTML, CSS, SCSS, Javascript
 
 
 <div align=center>
