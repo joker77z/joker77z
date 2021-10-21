@@ -8,17 +8,6 @@
 - mechanical design Engineer -> technical supporter & QA Engineer -> Front-End developer
 - 2021.7.12 ~ FastCampus NKLCB 2nd (Learn algorithm, html, css, javascript, react)
 
-## Interest
-### Skill 
-- Javascript
-- Node.js
-- React
-- algorithm
-
-
-## Stack
-- HTML, CSS, SCSS, Javascript
-
 
 <div align=center>
 
