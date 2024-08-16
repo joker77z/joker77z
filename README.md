@@ -27,6 +27,7 @@
 <img src="https://img.shields.io/badge/react testing library-E33332?style=for-the-badge&logo=testinglibrary&logoColor=black" />
 <img src="https://img.shields.io/badge/jest-C21325?style=for-the-badge&logo=jest&logoColor=black" />
 
+<br />
 
 <img src="https://img.shields.io/badge/vite-8DD6F9?style=for-the-badge&logo=vite&logoColor=black" />
 <img src="https://img.shields.io/badge/webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black" />
